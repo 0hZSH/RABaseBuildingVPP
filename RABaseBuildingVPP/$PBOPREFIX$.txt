@@ -1,0 +1,6 @@
+//<'RABBVPP.pbo' properties via Mikero's dos tools, dll version 9.45>
+product=dayz ugc;
+version=1;
+prefix=cfgrabbvppcompatible;
+//PboType=Arma Addon;
+//</properties>
