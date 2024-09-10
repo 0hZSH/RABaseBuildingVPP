@@ -11,5 +11,5 @@
 
 - Bypass Terrain and Adjacent Building Checks: The fix removes the terrain and adjacent building checks, allowing you to build structures regardless of the surrounding environment or nearby constructions.
 
-# Video DEMO
+# Video Preview
 https://www.youtube.com/watch?v=PBpaXnnlCUE
