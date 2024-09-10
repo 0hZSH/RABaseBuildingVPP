@@ -10,3 +10,6 @@
 - Instant TIER Upgrades: Upgrading the structure's TIER is simplified; you only need to use a hammer to increase the TIER of your built structure. This streamlines the building process and allows for quick upgrades without additional tools or materials.
 
 - Bypass Terrain and Adjacent Building Checks: The fix removes the terrain and adjacent building checks, allowing you to build structures regardless of the surrounding environment or nearby constructions.
+
+# Video DEMO
+https://www.youtube.com/watch?v=PBpaXnnlCUE
